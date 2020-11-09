@@ -1,4 +1,4 @@
-*{
+* {
     padding: 0;
     margin: 0;
     font-size: 100%;
@@ -13,24 +13,26 @@ body {
     color: #333;
 }
 
-h1,h2{
+h1,
+h2 {
     font-weight: normal;
     color: #8f0040;
     text-align: center;
 }
 
-p, blockquote{
+p,
+blockquote {
     margin-bottom: 1.4em;
     line-height: 1.5;
 }
 
-h1{
+h1 {
     font-size: 3.827em;
     margin-top: 3em;
     margin-bottom: 0.1em;
 }
 
-h2{
+h2 {
     font-size: 1.999em;
     margin: 3em 0 1em 0;
 }
@@ -57,14 +59,16 @@ header p {
 }
 
 /*---STYLING LINKS---*/
-a{
+a {
     color: #8f0040;
     text-decoration: none;
 }
+
 a:visited {
     color: #8f0040;
 }
-a:hover{
+
+a:hover {
     color: darkgreen;
     border-bottom: 1px dotted;
 }
@@ -76,13 +80,13 @@ nav {
     top: 0;
     left: 0;
     margin: 0;
-    width:100%;
+    width: 100%;
     background-color: #8f0040;
     padding: 1em 0;
     font-size: 0.75em;
 }
 
-nav ul{
+nav ul {
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -94,7 +98,7 @@ nav ul li {
     background: none;
 }
 
-nav a{
+nav a {
     color: #fdfdfd;
 }
 
@@ -102,14 +106,14 @@ nav a:visited {
     color: #fdfdfd
 }
 
-nav a:hover{
+nav a:hover {
     border-bottom: none;
     color: hotpink;
     transition: all 0.3s ease-in-out;
 }
 
 /*---Footer---*/
-footer{
+footer {
     text-align: center;
     font-size: 0.707em;
     padding: 4em 0 8em 0
