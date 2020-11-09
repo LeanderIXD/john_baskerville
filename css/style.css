@@ -61,14 +61,16 @@ a{
     color: #8f0040;
     text-decoration: none;
 }
+a:visited {
+    color: #8f0040;
+}
 a:hover{
     color: darkgreen;
     border-bottom: 1px dotted;
 }
-a:visited {
-    color: darkgreen;
-}
+
 /*---Navigation---*/
+
 nav {
     position: fixed;
     top: 0;
@@ -79,26 +81,31 @@ nav {
     padding: 1em 0;
     font-size: 0.75em;
 }
+
 nav ul{
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
+
 nav ul li {
     display: inline;
     margin: 20px;
     background: none;
 }
+
 nav a{
     color: #fdfdfd;
 }
+
+nav a:visited {
+    color: #fdfdfd
+}
+
 nav a:hover{
     border-bottom: none;
     color: hotpink;
     transition: all 0.3s ease-in-out;
-}
-nav a:visited {
-    color: #fdfdfd;
 }
 
 /*---Footer---*/
