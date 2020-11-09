@@ -65,6 +65,9 @@ a:hover{
     color: darkgreen;
     border-bottom: 1px dotted;
 }
+a:visited {
+    color: darkgreen;
+}
 /*---Navigation---*/
 nav {
     position: fixed;
@@ -94,6 +97,10 @@ nav a:hover{
     color: hotpink;
     transition: all 0.3s ease-in-out;
 }
+a:visited {
+    color: #fdfdfd;
+}
+
 /*---Footer---*/
 footer{
     text-align: center;
