@@ -11,3 +11,7 @@ Adding new Baskerville file and applied my first CSS styling.
 [Version 3](https://leanderixd.github.io/john_baskerville/john_baskerville-three.html)   
 *016 November 2020*  
 Adding fonts and adjusting to fonts.
+
+[Version 4](https://leanderixd.github.io/john_baskerville/john_baskerville-four.html)   
+*023 November 2020*  
+Adding table and Images
