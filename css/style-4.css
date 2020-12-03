@@ -159,6 +159,13 @@ table,td{
     background: #f9e7ef;
     border: 1px solid #fdfdfd;
 }
+/*---Image---*/
+img{
+    display: block;
+    margin: 4em 0;
+    padding: 0;
+    max-width: 100%;
+}
 /*---Footer---*/
 footer {
     text-align: center;
